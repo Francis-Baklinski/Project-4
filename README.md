@@ -1,6 +1,6 @@
 How to run:
 
-Download the zip file and open the "index.html" file with you favorite browser
+Download the zip file and open the "index.html" file with you favorite browser.
 
 Each page has optimized to achieve a 90+ Google PageSpeed score. Javascript has also been optimized to achieve a 60+ FPS rendering speed. I have included two versions of each HTML page: a production version and a development version.
 
